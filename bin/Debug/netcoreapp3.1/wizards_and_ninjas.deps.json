@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "wizards_and_ninjas/1.0.0": {
+        "runtime": {
+          "wizards_and_ninjas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wizards_and_ninjas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\bin\Debug\netcoreapp3.1\wizards_and_ninjas.exe
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\bin\Debug\netcoreapp3.1\wizards_and_ninjas.deps.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\bin\Debug\netcoreapp3.1\wizards_and_ninjas.runtimeconfig.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\bin\Debug\netcoreapp3.1\wizards_and_ninjas.runtimeconfig.dev.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\bin\Debug\netcoreapp3.1\wizards_and_ninjas.dll
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\bin\Debug\netcoreapp3.1\wizards_and_ninjas.pdb
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.csprojAssemblyReference.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.AssemblyInfoInputs.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.AssemblyInfo.cs
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.csproj.CoreCompileInputs.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.dll
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.pdb
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\wizards_and_ninjas\obj\Debug\netcoreapp3.1\wizards_and_ninjas.genruntimeconfig.cache
